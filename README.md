@@ -1,5 +1,8 @@
 # ArcGIS-Split-Feature-Tool
+*Written by James M Roden*
+
 Split feature class into separate feature classes based on specified field attribute
+[DOWNLOAD](link)
 
 ![exmaple](https://github.com/GISJMR/ArcGIS-Split-Feature-Tool/raw/master/example.png)
 *Example of input and output*
