@@ -1,4 +1,7 @@
 # ArcGIS-Split-Feature-Tool
+
+Version==ArcGIS 10.3
+
 *Written by James M Roden*
 
 Split feature class into separate feature classes based on specified field attribute
